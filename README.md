@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is a Mini Version of the main version of React App which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mini React boilerplate which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
